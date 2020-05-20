@@ -1,0 +1,15 @@
+
+.wrapper{
+    min-height: 85vh;
+}
+
+
+ .nav-link:hover{
+     transform: scale(1.1);
+     transition: ease-in 0.2s;
+
+ }
+
+ .active{
+     font-weight: bold  ;
+ }
